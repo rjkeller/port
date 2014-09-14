@@ -1,0 +1,6 @@
+{
+    "config_settings": {
+        "native_compile": true,
+        "num_cpus": 4
+    }
+}
